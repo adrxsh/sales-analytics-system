@@ -242,6 +242,9 @@ Technologies Used
 
 Project tested end-to-end before submission.
 This repository follows the prescribed assignment structure.
+All data processing steps were implemented as per instructions.
+
+
 
 
 
