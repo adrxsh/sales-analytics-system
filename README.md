@@ -240,3 +240,5 @@ Technologies Used
 
 3\. DummyJSON Products API
 
+Project tested end-to-end before submission.
+
