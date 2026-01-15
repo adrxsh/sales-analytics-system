@@ -241,4 +241,7 @@ Technologies Used
 3\. DummyJSON Products API
 
 Project tested end-to-end before submission.
+This repository follows the prescribed assignment structure.
+
+
 
