@@ -247,6 +247,9 @@ External API integration uses DummyJSON products API.
 The generated report includes all required analytical sections.
 
 ## Assumptions
+Minor data inconsistencies were handled according to validation rules.
+
+
 
 
 
