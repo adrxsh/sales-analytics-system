@@ -246,6 +246,10 @@ All data processing steps were implemented as per instructions.
 External API integration uses DummyJSON products API.
 The generated report includes all required analytical sections.
 
+## Assumptions
+
+
+
 
 
 
